@@ -4,7 +4,7 @@ Modern open-source recreation of a mid 90s top tier 486 motherboard.
 # Chip List
 | Role | Preferred Specific IC Model | Package Type | Sourcing Availability|
 | --- | --- | --- | ---|
-| CPU | Intel / AMD i486DX2-66 | PGA-168 | NOS / Tested Vintage|
+| CPU | Intel i486DX2-66 | PGA-168 | NOS / Tested Vintage|
 | Core Chipset | SiS 85C471 + SiS 85C472 | QFP / PQFP | NOS surplus|
 | L2 SRAM | IS61C256AH-15J (x9) | DIP-28 or SOJ-28 | Active stock / NOS|
 | Super I/O | Winbond W83787F or SMC FDC37C665 | QFP-100 | NOS / Surplus|
