@@ -15,5 +15,5 @@ Modern open-source recreation of a mid 90s top tier 486 motherboard.
 | Bus Drivers | 74ACT245, 74ACT573, 74F245 | DIP / SOIC | Active stock|
 
 # Useful Links
-https://github.com/ciprian-stingu/Kicad-486-CPU-socket.git
+https://github.com/ciprian-stingu/Kicad-486-CPU-socket.git  
 https://github.com/wiretap-retro/72-pin-SIMM-KiCAD-Template.git
