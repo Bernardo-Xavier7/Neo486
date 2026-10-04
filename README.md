@@ -29,3 +29,12 @@ Modern open-source recreation of a mid 90s top tier 486 motherboard.
 - Socket 3 Kicad: https://github.com/ciprian-stingu/Kicad-486-CPU-socket.git  
 - 72-Pin RAM Template Kicad: https://github.com/wiretap-retro/72-pin-SIMM-KiCAD-Template.git  
 - RetroWeb SiS 85C471/407 Chipset Page: https://theretroweb.com/chipsets/416
+
+## Licensing
+
+The **neo486** project is an open-source hardware recreation. Because different components of the repository fall under different legal frameworks, it is licensed as follows:
+
+* **Hardware & PCB Designs:** Licensed under the **CERN Open Hardware Licence Version 2 - Strong Reciprocal (CERN-OHL-S-2.0)**. Anyone modifying the neo486 motherboard design must share their changes, ensuring the core hardware improvements remain open to the community.
+* **Firmware** Licensed under the **GNU General Public License v3.0 (GPL-3.0)**. 
+* **Documentation & Wiki:** Licensed under **Creative Commons Attribution 4.0 International (CC BY-SA 4.0)**.
+
