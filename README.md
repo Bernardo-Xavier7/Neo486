@@ -18,7 +18,7 @@ Modern open-source recreation of a mid 90s top tier 486 motherboard.
 | --- | --- | --- | --- |
 | CPU | Intel 486 | PGA-168 | NOS / Tested Vintage|
 | Core Chipset | SiS 85C471/407 | QFP / PQFP | NOS surplus |
-| L2 Cache |  IS61C512 (x8 + 1 TAG) | DIP-28 or SOJ-28 | Active stock / NOS |
+| L2 Cache |  IS61C512 (8x Cache + 1x TAG) | DIP-28 or SOJ-28 | Active stock / NOS |
 | KBC Controller | VT82C42 | DIP-40 or PLCC-44 | Active stock / NOS |
 | System BIOS | SST39SF010A-70-4C-PHE | DIP-32 or PLCC-32 | Active stock / NOS |
 | Clock Generator | AV9107 | DIP-16 | NOS surplus |
