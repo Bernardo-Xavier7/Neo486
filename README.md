@@ -29,6 +29,7 @@ Modern open-source recreation of a mid 90s top tier 486 motherboard.
 - Socket 3 Kicad: https://github.com/ciprian-stingu/Kicad-486-CPU-socket.git  
 - 72-Pin RAM Template Kicad: https://github.com/wiretap-retro/72-pin-SIMM-KiCAD-Template.git  
 - RetroWeb SiS 85C471/407 Chipset Page: https://theretroweb.com/chipsets/416
+- Kicad Library of Old Parts: https://github.com/skiselev/my_kicad_library
 
 ## Licensing
 
