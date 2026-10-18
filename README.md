@@ -18,10 +18,10 @@ Modern open-source recreation of a mid 90s top tier 486 motherboard.
 | --- | --- | --- | --- |
 | CPU | Intel 486 | PGA-168 / PGA-237 | NOS / Tested Vintage |
 | Core Chipset | SiS 85C471/407 | QFP / PQFP | NOS surplus |
-| L2 Cache |  IS61C512 (8x Cache + 1x TAG) | DIP-28 or SOJ-28 | NOS surplus |
-| KBC Controller | VT82C42 | DIP-40 or PLCC-44 | NOS surplus |
-| System BIOS | SST39SF010A-70-4C-PHE | DIP-32 or PLCC-32 | NOS surplus |
-| Clock Generator | AV9107 | DIP-16 | NOS surplus |
+| L2 Cache |  W24512AK-15 (8x Cache + 1x TAG) | DIP-28 or SOJ-28 | NOS surplus |
+| KBC Controller | VT82C42N | DIP-40 or PLCC-44 | NOS surplus |
+| System BIOS | M27C1001-10F1 | DIP-32 or PLCC-32 | NOS surplus |
+| Clock Generator | AV9107C-03 | DIP-16 | NOS surplus |
 | RTC / CMOS | Dallas DS12885 | DIP-24 | Active stock |
 | Bus Drivers | 74ACT245, 74ACT573, 74F245 | DIP / SOIC | Active stock |
 
@@ -29,7 +29,7 @@ Modern open-source recreation of a mid 90s top tier 486 motherboard.
 | Item | URL | Qty/Batch |
 | --- | --- | --- |
 | SIS85C471 | https://www.ebay.com/itm/265335516529 | 4 |
-| SIS85C407 | https://www.ebay.com/itm/265335516528 | 3 |
+| SIS85C407 | https://www.ebay.com/itm/265335516528 | 1 |
 | AV9107C-03 | https://www.ebay.com/itm/111916603653 | 25 |
 | M27C1001-10F1 | https://www.ebay.com/itm/123836525751 | 10 |
 | W24512AK-15 | https://www.ebay.com/itm/357588059252 | 10 |
