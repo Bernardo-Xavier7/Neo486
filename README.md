@@ -34,6 +34,7 @@ Modern open-source recreation of a mid 90s top tier 486 motherboard.
 | M27C1001-10F1 | https://www.ebay.com/itm/123836525751 | 10 |
 | W24512AK-15 | https://www.ebay.com/itm/357588059252 | 10 |
 | VT82C42N | https://www.ebay.com/itm/267670780218 | 4 |
+| PS/2 IO Bracket | https://www.ebay.com/itm/391942848851 | 1 |
 
 # Useful Links
 - Socket 3 Kicad: https://github.com/ciprian-stingu/Kicad-486-CPU-socket.git  
